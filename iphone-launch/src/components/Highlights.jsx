@@ -20,14 +20,16 @@ const Highlights = () => {
             Standout Elements
           </h1>
           <div className='flex flex-wrap items-end gap-5'>
-            <p className='link'>
-              Preview
+            <p className='link'><a href="https://www.apple.com/iphone-15-pro/">
+              See The Preview</a>
               <img src={watchImg} alt='watch' className='ml-2' />
             </p>
           </div>
           <div className='flex flex-wrap items-end gap-5'>
             <p className='link'>
+            <a href="https://www.apple.com/iphone-15-pro/">
               The Release
+              </a>
               <img src={rightImg} alt='right' className='ml-2' />
             </p>
           </div>

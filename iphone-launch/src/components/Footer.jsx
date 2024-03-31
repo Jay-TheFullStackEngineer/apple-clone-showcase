@@ -9,11 +9,15 @@ const Footer = () => {
           <p className='font-semibold text-gray text-xs'>
             More ways to shop: {' '}
             <span className='underline text-blue'>
-            Find an Apple Store {' '}
+                <a href="https://www.apple.com/iphone-15-pro/">
+                    Find an Apple Store {' '}
+                </a>
             </span>
             or {' '}
             <span className='underline text-blue'>
-            other retailer
+                <a href="https://www.apple.com/iphone-15-pro/">
+                    other retailer
+                </a>
             </span>{' '}
             near you.
           </p>
@@ -25,11 +29,11 @@ const Footer = () => {
         <div className='bg-neutral-700 my-5 h-[1px] w-full' />
 
         <div className='flex md:flex-row flex-col md:items-center justify-between'>
-          <p className='font-semibold text-gray text-xs'>Copright @ 2024 Apple Inc. All rights reserved. Created by The FullStack Engineer: Jay Thompson</p>
+          <p className='font-semibold text-gray text-xs'>This website is purely made as a showcase and not an offical page. &copy;2024 Created by <a href="https://thefullstackengineer.tech">The FullStack Engineer: Jay Thompson</a></p>
           <div className='flex'>
             {footerLinks.map((link, i) => (
               <p key={link} className='font-semibold text-gray text-xs'>
-                {link}{' '}
+                <a href="https://www.apple.com/iphone-15-pro/">{link}</a>{' '}
                 {i !== footerLinks.length - 1 && (
                   <span className='mx-2'> | </span>
                 )}
