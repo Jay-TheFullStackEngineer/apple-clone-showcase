@@ -29,7 +29,8 @@ const Footer = () => {
         <div className='bg-neutral-700 my-5 h-[1px] w-full' />
 
         <div className='flex md:flex-row flex-col md:items-center justify-between'>
-          <p className='font-semibold text-gray text-xs'>This website is purely made as a showcase and not an offical page. &copy;2024 Created by <a href="https://thefullstackengineer.tech">The FullStack Engineer: Jay Thompson</a></p>
+          <p className='font-semibold text-gray text-xs'>This website is purely made as a showcase and not an offical page.</p><br/>
+          <p className='font-semibold text-gray text-xs'>&copy;2024 Created by <a href="https://thefullstackengineer.tech">The FullStack Engineer : Jay Thompson </a></p><br/>
           <div className='flex'>
             {footerLinks.map((link, i) => (
               <p key={link} className='font-semibold text-gray text-xs'>
