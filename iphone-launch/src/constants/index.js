@@ -15,16 +15,22 @@ import {
     {
       id: 1,
       textLists: [
-        'Enter A17 Pro.',
-        'Game‑changing chip.',
-        'Groundbreaking performance.',
+        'The new A17 Pro.',
+        'The future of the iPhone chip.',
+        'Groundbreaking performance',
+        'A new generation of power'
       ],
       video: highlightFirstVideo,
       videoDuration: 4,
     },
     {
       id: 2,
-      textLists: ['Titanium.', 'So strong. So light. So Pro.'],
+      textLists: [
+        'Made with Titanium.', 
+        'Remarkably durable', 
+        'Surprisingly Sleek', 
+        'Distinctly Pro'
+      ],
       video: highlightSecondVideo,
       videoDuration: 5,
     },
@@ -32,15 +38,15 @@ import {
       id: 3,
       textLists: [
         'iPhone 15 Pro Max has the',
-        'longest optical zoom in',
-        'iPhone ever. Far out.',
+        'cleanest optical zoom in a',
+        'iPhone ever made.',
       ],
       video: highlightThirdVideo,
       videoDuration: 2,
     },
     {
       id: 4,
-      textLists: ['All-new Action button.', 'What will yours do?.'],
+      textLists: ['All-new Action button.', 'Make it yours.'],
       video: highlightFourthVideo,
       videoDuration: 3.63,
     },

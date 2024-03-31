@@ -35,13 +35,13 @@ const Features = () => {
     <section className='h-full common-padding bg-zinc relative overflow-hidden'>
       <div className='screen-max-wdith'>
         <div className='mb-12 w-full'>
-          <h1 id='features_title' className='section-heading'>Explore the full story.</h1>
+          <h1 id='features_title' className='section-heading'>Unparalleled beauty etched with laser precision.</h1>
         </div>
         
         <div className='flex flex-col justify-center items-center overflow-hidden'>
           <div className='mt-32 mb-24 pl-24'>
-            <h2 className='text-5xl lg:text-7xl font-semibold'>iPhone.</h2>
-            <h2 className='text-5xl lg:text-7xl font-semibold'>Forged in titanium.</h2>
+            <h2 className='text-5xl lg:text-7xl font-semibold'>iPhone 15 Pro.</h2>
+            <h2 className='text-3xl lg:text-4xl font-semibold'>Forged in Titanium, merged with power.</h2>
           </div>
 
           <div className='flex-center flex-col sm:px-10'>
@@ -66,19 +66,24 @@ const Features = () => {
                   <p className='feature-text g_text'>
                     iPhone 15 Pro is {' '}
                     <span className='text-white'>
-                      the first iPhone to feature an aerospace-grade titanium design
+                      the first iPhone to feature an aerospace-grade Titanium design
                     </span>,
-                    using the same alloy that spacecrafts use for missions to Mars.
+                    merged with the some of the best technology Apple has ever made. Creating a phone that is beautiful, 
+                    powerful and built for an experience that transcends the ordinary.
                   </p>
                 </div>
 
                 <div className='flex-1 flex-center'>
                   <p className='feature-text g_text'>
-                    Titanium has one of the best strength-to-weight ratios of any metal, making these our {' '}
+                    Engineered with Titanium, our device features ultra-light circuits and 
+                    the most advanced battery technology. Making this the  {' '}
                     <span className='text-white'>
-                      lightest Pro models ever.
+                      lightest Pro model ever.
                     </span>
                     You'll notice the difference the moment you pick one up.
+                    <span className='text-white'>
+                      This changes everything. Again.
+                    </span>
                   </p>
                 </div>
 
