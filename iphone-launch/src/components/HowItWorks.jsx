@@ -104,6 +104,7 @@ const HowItWorks = () => {
               </div>
               </div>
             </div>
+            <br/>
     </section>
   )
 }
