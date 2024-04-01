@@ -18,11 +18,11 @@ It features a moving video carousel, a 3D iPhone model to interact with in vario
 
 ## :rocket: Sneak Peak ##
 
-![alt text](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-1.png)
-![alt text](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-2.png)
-![alt text](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-3.png)
-![alt text](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-4.png)
-![alt text](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-5.png)
+![Hero Section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-1.png)
+![Video Carousel](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-2.png)
+![3D Model](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-3.png)
+![Highlights](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-4.png)
+![Chip % HIW section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-5.png)
 
 ### Features :mechanical_arm: ###
 - :mag: Life Like 3D Modeling Rendered With Three.js
