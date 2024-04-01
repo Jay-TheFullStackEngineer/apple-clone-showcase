@@ -32,6 +32,7 @@ Welcome to the iPhone 15 Pro Launch Demo Project – a showcase of React capabil
     - Uniformed spacing, sizes and more through the use of Tailwind
     - A completely Apple inspired design that creates a simple but timeless aesthetic
 - Easy Setup and Control With Vite
+    - Run and build scripts supplied thanks to Vite
 
 
 ## <a name="tech-stack">⚙️ The Full Tech Stack</a>
