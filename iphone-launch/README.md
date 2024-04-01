@@ -14,6 +14,16 @@
 ## Overview :fountain_pen: ##
 Welcome to the iPhone 15 Pro Launch Demo Project – a showcase of React capability and visually stunning web development. This project is a mock website designed to demonstrate my development expertise (Please use it responsibly), featuring captivating animations, lifelike 3D rendering, and exquisite design (As only Apple does). Built with React using JavaScript, and enhanced with GSAP for animations, Three.js for 3D modeling and lighting control, with Tailwind CSS as the aesthetics engine. 
 
+It features a moving video carousel, a 3D iPhone model to interact with in various colors and two sizes, vibrant text and image animations with a beautiful rendered video displayed in an iPhone frame.
+
+## :rocket: Sneak Peak ##
+
+![alt text](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-1.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+
 ### Features :mechanical_arm: ###
 - :mag: Life Like 3D Modeling Rendered With Three.js
     - Custom light and shadowing to create a realistic model
