@@ -18,10 +18,19 @@ It features a moving video carousel, a 3D iPhone model to interact with in vario
 
 ## :rocket: Sneak Peak ##
 
+### Hero Section ###
 ![Hero Section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-1.png)
+
+### Animated Video Carousel ###
 ![Video Carousel](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-2.png)
+
+### Detailed 3D Model ###
 ![3D Model](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-3.png)
+
+### Image Animations ###
 ![Highlights](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-4.png)
+
+### Video Frame ###
 ![Chip % HIW section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-5.png)
 
 ### Features :mechanical_arm: ###
