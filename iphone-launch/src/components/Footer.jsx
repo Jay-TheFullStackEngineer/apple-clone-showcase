@@ -21,6 +21,7 @@ const Footer = () => {
             </span>{' '}
             near you.
           </p>
+          <br />
           <p className='font-semibold text-gray text-xs'>
             Or call 000800-040-1966
           </p>
