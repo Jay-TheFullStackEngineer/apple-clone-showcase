@@ -19,11 +19,7 @@ const Footer = () => {
                     other retailer
                 </a>
             </span>{' '}
-            near you.
-          </p>
-          <br />
-          <p className='font-semibold text-gray text-xs'>
-            Or call 000800-040-1966
+            near you. Or call 1-800-MY-APPLE.
           </p>
         </div>
 
