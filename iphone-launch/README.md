@@ -17,6 +17,7 @@ Welcome to the iPhone 15 Pro Launch Demo Project – a showcase of React capabil
 It features a moving video carousel, a 3D iPhone model to interact with in various colors and two sizes, vibrant text and image animations with a beautiful rendered video displayed in an iPhone frame.
 
 ## :rocket: Sneak Peak ##
+![iPhone Launch Sneak Peak]](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/iPhone-Launch-Short.gif)
 
 ### Hero Section ###
 ![Hero Section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-1.png)
