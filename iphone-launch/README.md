@@ -1,2 +1,2 @@
-:mage_man: # iPhone 15 Pro Launch Site # :iphone:
+# :mage_man: iPhone 15 Pro Launch Site :iphone: #
 
