@@ -20,7 +20,6 @@ It features a moving video carousel, a 3D iPhone model to interact with in vario
 
 ## :rocket: Sneak Peak ##
 
-
 ### Hero Section ###
 ![Hero Section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-1.png)
 
