@@ -92,4 +92,4 @@ It features a moving video carousel, a 3D iPhone model to interact with in vario
 
 _5. Navigate to the url in your terminal_
 
-### Contact Jay at jayalexthompson@icloud.com for dev work, questions or anything else.
+### For anything related to full-stack development, questions, or just a friendly chat, feel free to reach out to me, Jay, at jayalexthompson@icloud.com.
