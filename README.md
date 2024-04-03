@@ -17,29 +17,29 @@ Welcome to the iPhone 15 Pro Launch Demo Project – a showcase of React capabil
 
 It features a moving video carousel, a 3D iPhone model to interact with in various colors and two sizes, vibrant text and image animations with a beautiful rendered video displayed in an iPhone frame.
 
-![iPhone Launch Sneak Peak](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/iPhone-Launch-Short.gif)
+![iPhone Launch Sneak Peak](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/git_assets/iPhone-Launch-Short.gif)
 
 ## :rocket: Sneak Peak
 
 ### Hero Section
 
-![Hero Section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-1.png)
+![Hero Section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/git_assets/Iphone-launch-1.png)
 
 ### Animated Video Carousel
 
-![Video Carousel](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-2.png)
+![Video Carousel](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/git_assets/Iphone-launch-2.png)
 
 ### Detailed 3D Model
 
-![3D Model](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-3.png)
+![3D Model](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/git_assets/Iphone-launch-3.png)
 
 ### Image Animations
 
-![Highlights](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-4.png)
+![Highlights](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/git_assets/Iphone-launch-4.png)
 
 ### Video Frame
 
-![Chip % HIW section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/iphone-launch/git_assets/Iphone-launch-5.png)
+![Chip % HIW section](https://github.com/Jay-TheFullStackEnginner/apple-clone-showcase/blob/development/git_assets/Iphone-launch-5.png)
 
 ### Features :mechanical_arm:
 
@@ -62,7 +62,7 @@ It features a moving video carousel, a 3D iPhone model to interact with in vario
 - :wrench: Easy Setup and Control With Vite
   - Run and build scripts supplied thanks to Vite
 
-## See it Live
+## :mount_fuji: See it Live :volcano:
 
 ![Live](http://iphone.thefullstackengineer.tech)
 
