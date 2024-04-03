@@ -73,3 +73,19 @@ It features a moving video carousel, a 3D iPhone model to interact with in vario
 - Tailwind CSS
 
 ## Installation :factory:
+
+1. Clone the repository:
+   https://github.com/Jay-TheFullStackEngineer/apple-clone-showcase.git
+
+2. Navigate to the project directory:
+   `code(cd ./apple-clone-showcase)`
+
+3. Install dependencies:
+   `code(npm i)`
+
+4. Start the development server:
+   `code(npm run dev)`
+
+_5. Navigate to the url in your terminal_
+
+### Contact Jay at jayalexthompson@icloud.com for dev work, questions or anything else.
