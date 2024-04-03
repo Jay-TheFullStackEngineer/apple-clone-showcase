@@ -55,7 +55,6 @@ It features a moving video carousel, a 3D iPhone model to interact with in vario
 - :wrench: Easy Setup and Control With Vite
     - Run and build scripts supplied thanks to Vite
 
-
 ## <a name="tech-stack">⚙️ The Full Tech Stack</a>
 
 - React.js
@@ -65,3 +64,4 @@ It features a moving video carousel, a 3D iPhone model to interact with in vario
 - GSAP (Greensock)
 - Vite
 - Tailwind CSS
+
